@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View } from 'react-native';
 import React from 'react';
-import FileOrCamera from '@/screens/choose-file-or-camera';
+import FileOrCamera from '@/screens/classify';
 
 type Props = {};
 
