@@ -8,8 +8,8 @@ const SummaryCard = () => {
     return (
         <View style={styles.container}>
             <View style={styles.text}>
-                <Text style={styles.title}>234</Text>
                 <Text style={styles.description}>You have correctly classified a total of</Text>
+                <Text style={styles.title}>234</Text>
             </View>
             <Image source={classify} style={styles.image} />
         </View>
